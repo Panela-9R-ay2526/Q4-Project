@@ -1,0 +1,49 @@
+.container {
+    width: 60%;
+    background-color: rgba(139, 138, 138, 0.316);
+    padding: 20px;  
+    margin: 0px auto;
+    text-align:center;
+    opacity:100%;
+    border-radius: 10px;
+}
+h1{
+    color:white
+}
+p{
+    color:rgb(0, 0, 0)
+    
+}
+body {
+  background-image: url('wallpaper.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+img {
+   width: 210px;
+}
+div{
+    gap: 25px;
+}
+
+.row1 {
+    display: flex;
+}
+
+p {
+    text-align: left;
+}
+
+ul {
+    text-align: left;
+}
+
+.card-text {
+    opacity: 50%;
+}
+
+
+
+
+
